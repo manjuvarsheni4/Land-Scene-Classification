@@ -1,4 +1,5 @@
 UC Merced Land Use Dataset
+Dataset Link: https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification
 
 October 28, 2010
 
@@ -26,4 +27,5 @@ Web: http://faculty.ucmerced.edu/snewsam
 ========================================================================
 
 This material is based upon work supported by the National Science Foundation under Grant No. 0917069.
+
 
